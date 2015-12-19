@@ -1,0 +1,114 @@
+html,body,div,p,ul,li{
+    margin:0;
+    padding:0;
+    font-family:"微软雅黑";
+}
+/*header-S*/
+#warp{
+    width:1920px;
+    height:3018px;
+    margin:0 auto;
+}
+#header{
+    width:100%;
+    height:auto;
+}
+#top-box{
+    width:100%;
+    height:40px;
+    background-color:#fff;
+}
+#top-box p{
+    display:block;
+    width:200px;
+    float:left;
+    font-size:14px;
+    color:#29b078;
+    margin-left:363px;
+    line-height:3;
+}
+#top-logo{
+    position:relative;
+    margin-left:1446px;
+}
+#main-nav{
+    width:100%;
+    height:100px;
+    font-size:16px;
+    line-height:5.24;
+    color:#fff;
+    background-color:#29b078;
+}
+#main-nav ul{
+    list-style:none;
+    margin-left:1188px;
+    text-align:center;
+
+}
+#main-nav ul li{
+    width:103px;
+    height:99px;
+    float:left;
+}
+li:first-child{border-bottom:2px solid #fff;}
+#banner{
+    width:100%;
+    height:602px;
+    background:red;
+}
+/*container-S*/
+#container{
+    width:100%;
+    background-color:#fafafa;
+}
+#content-main{
+    width:100%;
+    height:449px;
+    text-align:center;
+    vertical-align: bottom;
+}
+#content-main p{
+    text-align:justify;
+    color:#999;
+}
+#content-main h2{
+    font-size:18px;
+    font-weight:700;
+}
+.content-main-box1,.content-main-box2,.content-main-box3{
+    float:left;
+    margin-top:165px;
+}
+.content-main-box1{
+    margin-left:364px;
+}
+.content-main-box2{
+    margin-left:104px;
+}
+.content-main-box3{
+    margin-left:90px;
+}
+.content-main-left{
+    width:273px;
+    float:left;
+    margin-top:231px;
+    margin-left:100px;
+    border-left:2px
+}
+
+#content-study{
+    width:100%;
+    height:493px;
+}
+#content-student{
+    width:100%;
+    height:572px;
+}
+#content-company{
+    width:100%;
+    height:370px;
+}
+#fooder{
+    width:100%;
+    height:401px;
+}
